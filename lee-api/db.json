@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Barbatos",
+      "image": "/images/1.jpg",
+      "tags": "MG Grade",
+      "price": 17500,
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "name": "Zaku Warrior",
+      "image":"/images/2.jpg",
+      "tags": "MG Grade",
+      "price": 12500,
+      "status": "available"
+  },
+  {
+      "id": 3,
+      "name": "S Gundam",
+      "image": "/images/3.jpg",
+      "tags": "MG Grade",
+      "price": 19750,
+      "status": "available"
+  },
+  {
+      "id": 4,
+      "name": "00 Gundam seven-sword-edition",
+      "image": "/images/4.jpg",
+      "tags": "MG Grade",
+      "price": 18650,
+      "status": "available"
+  },
+  {
+      "id": 5,
+      "name": "RX-93 Nu Gundam",
+      "image": "/images/5.jpg",
+      "tags": "MG Grade",
+      "price": 11400,
+      "status": "available"
+  },
+  {
+      "id": 6,
+      "name": "ZZ Gundam ver.Ka",
+      "image": "/images/6.jpg",
+      "tags": "MG Grade",
+      "price": 18550,
+      "status": "available"
+  },
+  {
+      "id": 7,
+      "name": "Avalanche Exia Gundam",
+      "image": "/images/7.jpg",
+      "tags": "MG Grade",
+      "price": 17950,
+      "status": "available"
+  },
+  {
+      "id": 8,
+      "name": "Zeta Gundam",
+      "image": "/images/8.jpg",
+      "tags": "MG Grade",
+      "price": 11650,
+      "status": "available"
+  },
+    {
+      "name": "Exia Gundam",
+      "price": "38800",
+      "status": "available",
+      "tags": "PG Grade",
+      "image": "/images/9.jpg",
+      "id": 9
+    },
+    {
+      "name": "Zaku",
+      "price": "48900",
+      "status": "available",
+      "tags": "PG Grade",
+      "image": "/images/10.jpg",
+      "id": 10
+    }
+  ],
+  "carts": [
+    {
+      "productId": 3,
+      "name": "S Gundam",
+      "image": "/images/3.jpg",
+      "price": "19750",
+      "mount": 1,
+      "id": 4,
+      "userId": "lee@gmail.com"
+    },
+    {
+      "productId": 6,
+      "name": "ZZ Gundam ver.Ka",
+      "image": "/images/6.jpg",
+      "price": "18550",
+      "mount": 1,
+      "userId": "lee@gmail.com",
+      "id": 5
+    }
+  ]
+}

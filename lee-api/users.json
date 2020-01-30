@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nickname": "lee",
+      "email": "lee@gmail.com",
+      "password": "iamamaster",
+      "type": 1
+    },
+    {
+      "id": 2,
+      "email": "guest@gmail.com",
+      "password": "guest",
+      "nickname": "iamaguest",
+      "type": 0
+    }
+  ]
+}
